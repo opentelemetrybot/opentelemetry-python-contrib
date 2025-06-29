@@ -9,7 +9,7 @@ jobs:
   release:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # for creating GitHub releases
+      contents: write
     steps:
       - run: |
           if [[ $GITHUB_REF_NAME != release/* ]]; then

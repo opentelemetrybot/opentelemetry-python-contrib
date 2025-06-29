@@ -9,7 +9,7 @@ jobs:
   prepare-patch-release:
     runs-on: ubuntu-latest
     permissions:
-      pull-requests: write  # for adding labels to PRs
+      pull-requests: write
     steps:
       - uses: actions/checkout@v4
 

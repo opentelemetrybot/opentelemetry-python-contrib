@@ -21,7 +21,7 @@ jobs:
   CodeQL-Build:
     runs-on: ubuntu-latest
     permissions:
-      security-events: write  # for uploading CodeQL results
+      security-events: write
 
     steps:
       - name: Checkout repository
