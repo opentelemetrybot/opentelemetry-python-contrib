@@ -6,6 +6,8 @@ permissions:
 jobs:
   release:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - run: |
           if [[ $GITHUB_REF_NAME != release/* ]]; then
