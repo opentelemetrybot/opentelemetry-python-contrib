@@ -14,9 +14,14 @@ on:
     #        *  * * * *
     - cron: '30 1 * * *'
 
+permissions:
+  contents: read
+
 jobs:
   CodeQL-Build:
     runs-on: ubuntu-latest
+    permissions:
+      security-events: write  # for uploading CodeQL results
 
     steps:
       - name: Checkout repository
