@@ -14,6 +14,8 @@ on:
         description: 'Package to be released'
         required: true
 run-name: "[Package][${{ inputs.package }}] Release"
+permissions:
+  contents: read
 jobs:
   release:
     runs-on: ubuntu-latest

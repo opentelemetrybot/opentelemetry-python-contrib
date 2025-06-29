@@ -15,6 +15,9 @@ on:
         required: true
 run-name: "[Package][${{ inputs.package }}] Prepare patch release"
 
+permissions:
+  contents: read
+
 jobs:
   prepare-patch-release:
     runs-on: ubuntu-latest

@@ -15,6 +15,10 @@ on:
         required: true
 
 run-name: "[Package][${{ inputs.package }}] Prepare release"
+
+permissions:
+  contents: read
+
 jobs:
   prereqs:
     runs-on: ubuntu-latest

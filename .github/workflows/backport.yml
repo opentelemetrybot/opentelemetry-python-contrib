@@ -5,7 +5,8 @@ on:
       number:
         description: "The pull request # to backport"
         required: true
-
+permissions:
+  contents: read
 jobs:
   backport:
     runs-on: ubuntu-latest
