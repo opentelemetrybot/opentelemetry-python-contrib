@@ -13,10 +13,8 @@ on:
         - opentelemetry-instrumentation-google-genai
         description: 'Package to be released'
         required: true
-
 permissions:
   contents: read
-
 run-name: "[Package][${{ inputs.package }}] Prepare release"
 jobs:
   prereqs:

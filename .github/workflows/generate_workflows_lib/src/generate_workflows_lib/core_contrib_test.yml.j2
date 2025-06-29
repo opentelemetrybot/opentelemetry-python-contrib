@@ -12,10 +12,8 @@ on:
       CONTRIB_REPO_SHA:
         required: true
         type: string
-
 permissions:
   contents: read
-
 env:
   CORE_REPO_SHA: ${% raw %}{{ inputs.CORE_REPO_SHA }}{% endraw %}
   CONTRIB_REPO_SHA: ${% raw %}{{ inputs.CONTRIB_REPO_SHA }}{% endraw %}
