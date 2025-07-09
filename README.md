@@ -123,11 +123,11 @@ Approvers ([@open-telemetry/python-approvers](https://github.com/orgs/open-telem
 
 Emeritus Approvers:
 
-- [Ashutosh Goel](https://github.com/ashu658), Cisco
-- [Héctor Hernández](https://github.com/hectorhdzg), Microsoft
-- [Nikolay Sokolik](https://github.com/oxeye-nikolay), Oxeye
-- [Nikolay Sokolik](https://github.com/nikosokolik), Oxeye
-- [Nathaniel Ruiz Nowell](https://github.com/NathanielRN), AWS
+- [Ashutosh Goel](https://github.com/ashu658)
+- [Héctor Hernández](https://github.com/hectorhdzg)
+- [Nathaniel Ruiz Nowell](https://github.com/NathanielRN)
+- [Nikolay Sokolik](https://github.com/nikosokolik)
+- [Nikolay Sokolik](https://github.com/oxeye-nikolay)
 
 *Find more about the approver role in [community repository](https://github.com/open-telemetry/community/blob/main/community-membership.md#approver).*
 
@@ -140,10 +140,10 @@ Maintainers ([@open-telemetry/python-maintainers](https://github.com/orgs/open-t
 
 Emeritus Maintainers:
 
-- [Alex Boten](https://github.com/codeboten), Lightstep
-- [Diego Hurtado](https://github.com/ocelotl), Lightstep
-- [Owais Lone](https://github.com/owais), Splunk
-- [Yusuke Tsutsumi](https://github.com/toumorokoshi), Google
+- [Alex Boten](https://github.com/codeboten)
+- [Diego Hurtado](https://github.com/ocelotl)
+- [Owais Lone](https://github.com/owais)
+- [Yusuke Tsutsumi](https://github.com/toumorokoshi)
 
 *Find more about the maintainer role in [community repository](https://github.com/open-telemetry/community/blob/main/community-membership.md#maintainer).*
 
