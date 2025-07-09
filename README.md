@@ -146,6 +146,7 @@ For more information about the emeritus role, see the [community repository](htt
 - [Ashutosh Goel](https://github.com/ashu658)
 - [Héctor Hernández](https://github.com/hectorhdzg)
 - [Nathaniel Ruiz Nowell](https://github.com/NathanielRN)
+- [Nikolay Sokolik](https://github.com/nikosokolik)
 - [Nikolay Sokolik](https://github.com/oxeye-nikolay)
 
 For more information about the emeritus role, see the [community repository](https://github.com/open-telemetry/community/blob/main/guides/contributor/membership.md#emeritus-maintainerapprovertriager).
